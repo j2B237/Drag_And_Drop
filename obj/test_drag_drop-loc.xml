@@ -1,0 +1,142 @@
+<?xml version="1.0"?>
+<Locations >
+  <Project>
+    <vfs_file />
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>C:\Users\pc\Documents\AdaCore\Tutorials\AdaLabs\Drag_And_Drop_GtkAda\test_drag_drop.gpr</vfs_project>
+      <vfs_file>C:\Users\pc\Documents\AdaCore\Tutorials\AdaLabs\Drag_And_Drop_GtkAda\test_drag_drop.gpr</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>C:\Users\pc\Documents\AdaCore\Tutorials\AdaLabs\Drag_And_Drop_GtkAda\test_drag_drop.gpr</vfs_project>
+      <vfs_file>C:\Users\pc\Documents\AdaCore\Tutorials\AdaLabs\Drag_And_Drop_GtkAda\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 5" >
+      <vfs_project>C:\Users\pc\Documents\AdaCore\Tutorials\AdaLabs\Drag_And_Drop_GtkAda\test_drag_drop.gpr</vfs_project>
+      <vfs_file>C:\Users\pc\Documents\AdaCore\Tutorials\AdaLabs\Drag_And_Drop_GtkAda\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 66" line=" 8" >
+      <vfs_project>C:\Users\pc\Documents\AdaCore\Tutorials\AdaLabs\Drag_And_Drop_GtkAda\test_drag_drop.gpr</vfs_project>
+      <vfs_file>C:\Users\pc\Documents\AdaCore\Tutorials\AdaLabs\Drag_And_Drop_GtkAda\src\callback_ui.ads</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>C:\Users\pc\Documents\AdaCore\Tutorials\AdaLabs\Drag_And_Drop_GtkAda\test_drag_drop.gpr</vfs_project>
+      <vfs_file>C:\Users\pc\Documents\AdaCore\Tutorials\AdaLabs\Drag_And_Drop_GtkAda\src\callback_ui.ads</vfs_file>
+    </file_marker>
+    <file_marker column=" 4" line=" 9" >
+      <vfs_project>C:\Users\pc\Documents\AdaCore\Tutorials\AdaLabs\Drag_And_Drop_GtkAda\test_drag_drop.gpr</vfs_project>
+      <vfs_file>C:\Users\pc\Documents\AdaCore\Tutorials\AdaLabs\Drag_And_Drop_GtkAda\src\callback_ui.ads</vfs_file>
+    </file_marker>
+    <file_marker column=" 33" line=" 21" >
+      <vfs_project>C:\Users\pc\Documents\AdaCore\Tutorials\AdaLabs\Drag_And_Drop_GtkAda\test_drag_drop.gpr</vfs_project>
+      <vfs_file>C:\Users\pc\Documents\AdaCore\Tutorials\AdaLabs\Drag_And_Drop_GtkAda\src\window_pkg.ads</vfs_file>
+    </file_marker>
+    <file_marker column=" 18" line=" 19" >
+      <vfs_project>C:\Users\pc\Documents\AdaCore\Tutorials\AdaLabs\Drag_And_Drop_GtkAda\test_drag_drop.gpr</vfs_project>
+      <vfs_file>C:\Users\pc\Documents\AdaCore\Tutorials\AdaLabs\Drag_And_Drop_GtkAda\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 7" line=" 13" >
+      <vfs_project>C:\Users\pc\Documents\AdaCore\Tutorials\AdaLabs\Drag_And_Drop_GtkAda\test_drag_drop.gpr</vfs_project>
+      <vfs_file>C:\Users\pc\Documents\AdaCore\Tutorials\AdaLabs\Drag_And_Drop_GtkAda\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 34" line=" 3" >
+      <vfs_project>C:\Users\pc\Documents\AdaCore\Tutorials\AdaLabs\Drag_And_Drop_GtkAda\test_drag_drop.gpr</vfs_project>
+      <vfs_file>C:\Users\pc\Documents\AdaCore\Tutorials\AdaLabs\Drag_And_Drop_GtkAda\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 4" line=" 10" >
+      <vfs_project>C:\Users\pc\Documents\AdaCore\Tutorials\AdaLabs\Drag_And_Drop_GtkAda\test_drag_drop.gpr</vfs_project>
+      <vfs_file>C:\Users\pc\Documents\AdaCore\Tutorials\AdaLabs\Drag_And_Drop_GtkAda\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 4" line=" 10" >
+      <vfs_project>C:\Users\pc\Documents\AdaCore\Tutorials\AdaLabs\Drag_And_Drop_GtkAda\test_drag_drop.gpr</vfs_project>
+      <vfs_file>C:\Users\pc\Documents\AdaCore\Tutorials\AdaLabs\Drag_And_Drop_GtkAda\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 4" line=" 10" >
+      <vfs_project>C:\Users\pc\Documents\AdaCore\Tutorials\AdaLabs\Drag_And_Drop_GtkAda\test_drag_drop.gpr</vfs_project>
+      <vfs_file>C:\Users\pc\Documents\AdaCore\Tutorials\AdaLabs\Drag_And_Drop_GtkAda\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 9" line=" 69" >
+      <vfs_project>C:\GtkAda\lib\gnat\gtkada.gpr</vfs_project>
+      <vfs_file>C:\GtkAda\include\gtkada\gtkada.static\gtkada\gtk-frame.ads</vfs_file>
+    </file_marker>
+    <file_marker column=" 4" line=" 10" >
+      <vfs_project>C:\Users\pc\Documents\AdaCore\Tutorials\AdaLabs\Drag_And_Drop_GtkAda\test_drag_drop.gpr</vfs_project>
+      <vfs_file>C:\Users\pc\Documents\AdaCore\Tutorials\AdaLabs\Drag_And_Drop_GtkAda\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 24" line=" 387" >
+      <vfs_project>C:\Users\pc\Documents\AdaCore\Tutorials\AdaLabs\Drag_And_Drop_GtkAda\test_drag_drop.gpr</vfs_project>
+      <vfs_file>C:\Users\pc\Documents\AdaCore\Tutorials\AdaLabs\Drag_And_Drop_GtkAda\src\window_pkg.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 4" line=" 10" >
+      <vfs_project>C:\Users\pc\Documents\AdaCore\Tutorials\AdaLabs\Drag_And_Drop_GtkAda\test_drag_drop.gpr</vfs_project>
+      <vfs_file>C:\Users\pc\Documents\AdaCore\Tutorials\AdaLabs\Drag_And_Drop_GtkAda\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 34" line=" 393" >
+      <vfs_project>C:\Users\pc\Documents\AdaCore\Tutorials\AdaLabs\Drag_And_Drop_GtkAda\test_drag_drop.gpr</vfs_project>
+      <vfs_file>C:\Users\pc\Documents\AdaCore\Tutorials\AdaLabs\Drag_And_Drop_GtkAda\src\window_pkg.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 4" line=" 10" >
+      <vfs_project>C:\Users\pc\Documents\AdaCore\Tutorials\AdaLabs\Drag_And_Drop_GtkAda\test_drag_drop.gpr</vfs_project>
+      <vfs_file>C:\Users\pc\Documents\AdaCore\Tutorials\AdaLabs\Drag_And_Drop_GtkAda\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 65" line=" 474" >
+      <vfs_project>C:\Users\pc\Documents\AdaCore\Tutorials\AdaLabs\Drag_And_Drop_GtkAda\test_drag_drop.gpr</vfs_project>
+      <vfs_file>C:\Users\pc\Documents\AdaCore\Tutorials\AdaLabs\Drag_And_Drop_GtkAda\src\window_pkg.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 31" line=" 470" >
+      <vfs_project>C:\Users\pc\Documents\AdaCore\Tutorials\AdaLabs\Drag_And_Drop_GtkAda\test_drag_drop.gpr</vfs_project>
+      <vfs_file>C:\Users\pc\Documents\AdaCore\Tutorials\AdaLabs\Drag_And_Drop_GtkAda\src\window_pkg.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 25" line=" 615" >
+      <vfs_project>C:\Users\pc\Documents\AdaCore\Tutorials\AdaLabs\Drag_And_Drop_GtkAda\test_drag_drop.gpr</vfs_project>
+      <vfs_file>C:\Users\pc\Documents\AdaCore\Tutorials\AdaLabs\Drag_And_Drop_GtkAda\src\window_pkg.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 4" line=" 10" >
+      <vfs_project>C:\Users\pc\Documents\AdaCore\Tutorials\AdaLabs\Drag_And_Drop_GtkAda\test_drag_drop.gpr</vfs_project>
+      <vfs_file>C:\Users\pc\Documents\AdaCore\Tutorials\AdaLabs\Drag_And_Drop_GtkAda\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 38" line=" 622" >
+      <vfs_project>C:\Users\pc\Documents\AdaCore\Tutorials\AdaLabs\Drag_And_Drop_GtkAda\test_drag_drop.gpr</vfs_project>
+      <vfs_file>C:\Users\pc\Documents\AdaCore\Tutorials\AdaLabs\Drag_And_Drop_GtkAda\src\window_pkg.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 4" line=" 10" >
+      <vfs_project>C:\Users\pc\Documents\AdaCore\Tutorials\AdaLabs\Drag_And_Drop_GtkAda\test_drag_drop.gpr</vfs_project>
+      <vfs_file>C:\Users\pc\Documents\AdaCore\Tutorials\AdaLabs\Drag_And_Drop_GtkAda\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 25" line=" 637" >
+      <vfs_project>C:\Users\pc\Documents\AdaCore\Tutorials\AdaLabs\Drag_And_Drop_GtkAda\test_drag_drop.gpr</vfs_project>
+      <vfs_file>C:\Users\pc\Documents\AdaCore\Tutorials\AdaLabs\Drag_And_Drop_GtkAda\src\window_pkg.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 31" line=" 308" >
+      <vfs_project>C:\Users\pc\Documents\AdaCore\Tutorials\AdaLabs\Drag_And_Drop_GtkAda\test_drag_drop.gpr</vfs_project>
+      <vfs_file>C:\Users\pc\Documents\AdaCore\Tutorials\AdaLabs\Drag_And_Drop_GtkAda\src\window_pkg.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 18" line=" 660" >
+      <vfs_project>C:\Users\pc\Documents\AdaCore\Tutorials\AdaLabs\Drag_And_Drop_GtkAda\test_drag_drop.gpr</vfs_project>
+      <vfs_file>C:\Users\pc\Documents\AdaCore\Tutorials\AdaLabs\Drag_And_Drop_GtkAda\src\window_pkg.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 18" line=" 700" >
+      <vfs_project>C:\Users\pc\Documents\AdaCore\Tutorials\AdaLabs\Drag_And_Drop_GtkAda\test_drag_drop.gpr</vfs_project>
+      <vfs_file>C:\Users\pc\Documents\AdaCore\Tutorials\AdaLabs\Drag_And_Drop_GtkAda\src\window_pkg.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 4" line=" 10" >
+      <vfs_project>C:\Users\pc\Documents\AdaCore\Tutorials\AdaLabs\Drag_And_Drop_GtkAda\test_drag_drop.gpr</vfs_project>
+      <vfs_file>C:\Users\pc\Documents\AdaCore\Tutorials\AdaLabs\Drag_And_Drop_GtkAda\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 18" line=" 660" >
+      <vfs_project>C:\Users\pc\Documents\AdaCore\Tutorials\AdaLabs\Drag_And_Drop_GtkAda\test_drag_drop.gpr</vfs_project>
+      <vfs_file>C:\Users\pc\Documents\AdaCore\Tutorials\AdaLabs\Drag_And_Drop_GtkAda\src\window_pkg.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 4" line=" 10" >
+      <vfs_project>C:\Users\pc\Documents\AdaCore\Tutorials\AdaLabs\Drag_And_Drop_GtkAda\test_drag_drop.gpr</vfs_project>
+      <vfs_file>C:\Users\pc\Documents\AdaCore\Tutorials\AdaLabs\Drag_And_Drop_GtkAda\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 32" line=" 701" >
+      <vfs_project>C:\Users\pc\Documents\AdaCore\Tutorials\AdaLabs\Drag_And_Drop_GtkAda\test_drag_drop.gpr</vfs_project>
+      <vfs_file>C:\Users\pc\Documents\AdaCore\Tutorials\AdaLabs\Drag_And_Drop_GtkAda\src\window_pkg.adb</vfs_file>
+    </file_marker>
+    <file_marker current="true" column=" 7" line=" 745" >
+      <vfs_project>C:\Users\pc\Documents\AdaCore\Tutorials\AdaLabs\Drag_And_Drop_GtkAda\test_drag_drop.gpr</vfs_project>
+      <vfs_file>C:\Users\pc\Documents\AdaCore\Tutorials\AdaLabs\Drag_And_Drop_GtkAda\src\window_pkg.adb</vfs_file>
+    </file_marker>
+  </Project>
+</Locations>

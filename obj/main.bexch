@@ -1,0 +1,28 @@
+[GENERATED OBJECT FILE]
+b__main.o
+[PROJECT FILES]
+C:\Users\pc\Documents\AdaCore\Tutorials\AdaLabs\Drag_And_Drop_GtkAda\test_drag_drop.gpr
+20230111165212 170a1164ed23c4cde890de9ed6a80c3f
+C:\GtkAda\lib\gnat\gtkada.gpr
+20221122084930 10b2e2eaa1a98e347535c54eaa3fc52e
+[BOUND OBJECT FILES]
+C:\Users\pc\Documents\AdaCore\Tutorials\AdaLabs\Drag_And_Drop_GtkAda\obj\callback_ui.o
+C:\Users\pc\Documents\AdaCore\Tutorials\AdaLabs\Drag_And_Drop_GtkAda\obj\window_pkg-callback.o
+C:\Users\pc\Documents\AdaCore\Tutorials\AdaLabs\Drag_And_Drop_GtkAda\obj\window_pkg.o
+C:\Users\pc\Documents\AdaCore\Tutorials\AdaLabs\Drag_And_Drop_GtkAda\obj\main.o
+[GENERATED SOURCE FILES]
+b__main.ads
+b__main.adb
+b__main.ali
+[RESULTING OPTIONS]
+-LC:\Users\pc\Documents\AdaCore\Tutorials\AdaLabs\Drag_And_Drop_GtkAda\obj\
+-LC:\Users\pc\Documents\AdaCore\Tutorials\AdaLabs\Drag_And_Drop_GtkAda\obj\
+-LC:\GtkAda\lib\gtkada\gtkada.static\gtkada\
+-LC:/gnat/2021/lib/gcc/x86_64-w64-mingw32/10.3.1/adalib/
+-static
+-static-libgcc
+-shared-libgcc
+-shared-libgcc
+-shared-libgcc
+C:/gnat/2021/lib/gcc/x86_64-w64-mingw32/10.3.1/adalib/libgnat.a
+-Wl,--stack=0x2000000
